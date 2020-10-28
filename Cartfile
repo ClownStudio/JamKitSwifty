@@ -1,0 +1,15 @@
+github "Alamofire/Alamofire" ~> 5.2
+github "Moya/Moya" ~> 14.0
+github "SwiftyJSON/SwiftyJSON" ~> 4.0
+github "sunshinejr/SwiftyUserDefaults" ~> 5.0
+github "SnapKit/SnapKit" ~> 5.0.0
+github "raulriera/TextFieldEffects"
+github "hyperoslo/Hue"
+github "delba/TextAttributes"
+gitHub "onevcat/Kingfisher"
+github "kaishin/Gifu"
+github "DaveWoodCom/XCGLogger" ~> 7.0.1
+github "bizz84/SwiftyStoreKit"
+github "eggswift/ESTabBarController"
+github "facebookarchive/pop"
+

@@ -1,0 +1,13 @@
+$(SRCROOT)/Carthage/Build/iOS/Alamofire.framework
+$(SRCROOT)/Carthage/Build/iOS/Moya.framework
+$(SRCROOT)/Carthage/Build/iOS/SwiftyJSON.framework
+$(SRCROOT)/Carthage/Build/iOS/SnapKit.framework
+$(SRCROOT)/Carthage/Build/iOS/TextFieldEffects.framework
+$(SRCROOT)/Carthage/Build/iOS/Hue.framework
+$(SRCROOT)/Carthage/Build/iOS/TextAttributes.framework
+$(SRCROOT)/Carthage/Build/iOS/Kingfisher.framework
+$(SRCROOT)/Carthage/Build/iOS/Gifu.framework
+$(SRCROOT)/Carthage/Build/iOS/XCGLogger.framework
+$(SRCROOT)/Carthage/Build/iOS/SwiftyStoreKit.framework
+$(SRCROOT)/Carthage/Build/iOS/ESTabBarController.framework
+$(SRCROOT)/Carthage/Build/iOS/pop.framework
